@@ -1,0 +1,11 @@
+.icon-sign::before{
+    content: '\f277';
+    font-weight: 300;
+    color: var(--text);
+}
+.icon-shop::before{
+    content: '\f217';
+    font-weight: 300;
+    color: var(--text);
+}
+
